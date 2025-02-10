@@ -1,8 +1,5 @@
 # Python Programming Language and Resources to Learn
 
-> Click :star: if you like the project. Pull Request are highly appreciated. Follow [@OmBharatiya](https://github.com/ombharatiya) for more updates.
-
----
 
 1. ### Best YouTube Channels to Learn
 | No. | Channel |
